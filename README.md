@@ -1,2 +1,2 @@
 # newbie666
-学习JAVA，c++，python和git是使用技巧
+学习JAVA，c++，python和git的使用技巧
